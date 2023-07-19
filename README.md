@@ -1,70 +1,24 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was REACTJS with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### `Code Structure and Run Server ReactJS and NodeJS`
+![server Start](https://github.com/Laman-dev/authentication-reactJS-expressJS-mongoDB/assets/97945337/44140a5a-8b6a-4820-a415-67a49796a0cf)
+### `Start MongoDB`
+![mongo Start](https://github.com/Laman-dev/authentication-reactJS-expressJS-mongoDB/assets/97945337/17a4d95e-e32c-4969-8ce4-7a8a0512271a)
+### `View Register Form`
+![register](https://github.com/Laman-dev/authentication-reactJS-expressJS-mongoDB/assets/97945337/6f009e03-2e2c-44f1-aa4d-9fdb8c9536b4)
+### `View Login Form`
+![login](https://github.com/Laman-dev/authentication-reactJS-expressJS-mongoDB/assets/97945337/cf286245-09c9-44ad-b949-680f61b0b332)
+### `View Register Data`
+![data](https://github.com/Laman-dev/authentication-reactJS-expressJS-mongoDB/assets/97945337/93e9af51-aecd-41d1-84dc-a8fcb2f8d009)
+### `View Login Form`
+![check login](https://github.com/Laman-dev/authentication-reactJS-expressJS-mongoDB/assets/97945337/960f7bc2-72b1-4b39-ab9a-1be02db06da0)
+### `Show Data MongoDB Compass`
+![show data mongoDB compass](https://github.com/Laman-dev/authentication-reactJS-expressJS-mongoDB/assets/97945337/0d6dcb07-e176-4a14-82c2-f587b56f0c57)
+### `After Register/Login View Home Page`
+![redirect my home page](https://github.com/Laman-dev/authentication-reactJS-expressJS-mongoDB/assets/97945337/15d9600c-1fd3-42a0-a0ab-028107455c35)
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
